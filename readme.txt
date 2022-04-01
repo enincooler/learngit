@@ -12,3 +12,4 @@ git another none fastforward merge test4.
 git cm0
 git cm1
 git cm2
+fastforward merge test.
