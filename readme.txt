@@ -13,3 +13,4 @@ git cm0
 git cm1
 git cm2
 fastforward merge test.
+none fastforward merge test.
