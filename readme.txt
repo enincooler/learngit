@@ -8,3 +8,5 @@ Git none fastforward merge test2.
 Git none fastforward merge test3.
 Git another fastforward merge test3.
 git another none fastforward merge test4.
+#------------------------------------------
+git cm0
