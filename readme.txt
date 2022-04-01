@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick AND simple.
 Git none fastforward merge test.
 Git none fastforward merge test2.
+Git none fastforward merge test3.
